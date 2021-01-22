@@ -1,0 +1,6 @@
+print(5 + 5)
+print(5 - 5)
+print(5 * 5)
+print(25 / 4)
+print(25 % 21)
+print(5 ** 5)
