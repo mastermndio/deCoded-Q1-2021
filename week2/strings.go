@@ -23,7 +23,7 @@ func main() {
 	fmt.Println("Don't Touch That, tha's my food")
 	fmt.Println("She said, \"thats my food too\"")
 
-	Example of string literal
+	//Example of string literal
 	fmt.Println(`Hello my name is Aaron\n,
 				and I am the coolest person`)
 
